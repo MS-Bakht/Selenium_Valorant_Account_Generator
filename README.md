@@ -1,6 +1,6 @@
 # Valorant_Bulk_Account_Generator
 
-##Disclaimer: 
+## Disclaimer: 
 Please note that the Valorant Account Creator using Selenium provided in this repository is solely intended for research and educational purposes. It is not intended for any malicious or unauthorized use. By accessing and utilizing this code, you acknowledge and agree to use it responsibly and in compliance with all applicable laws, regulations, and the terms of service of Riot Games, the developer of Valorant.
 The author and contributors of this repository shall not be held responsible for any misuse, violations, or consequences arising from the use of this code. Users are solely responsible for their actions and are encouraged to adhere to ethical guidelines, terms of service, and applicable laws while using this code.
 
